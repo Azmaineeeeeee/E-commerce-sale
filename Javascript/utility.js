@@ -22,12 +22,7 @@ function applyCode(){
 
 }
 
-function removeList(){
-       document.getElementById('discountPrice').innerText = " ";
-        document.getElementById('total').innerText = " ";
-        document.getElementById('title-container').innerText = ' ';
-        document.getElementById('totalPrice').innerText = '';
-}
+
 
 
 
